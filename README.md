@@ -4,7 +4,7 @@
 
 
 
-**Live demo:** [[Insira seu link do Streamlit Cloud aqui](https://app-python-reviewer-ypjinhgsqb59udgbu8vhmu.streamlit.app/)]
+**Live demo:** [https://app-python-reviewer-ypjinhgsqb59udgbu8vhmu.streamlit.app/]
 
 ## 🎯 Problem Statement
 
