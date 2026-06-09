@@ -2,10 +2,9 @@
 
 > **Assistente inteligente de revisão de código baseado no Google Python Style Guide, impulsionado por RAG e Semantic Caching.**
 
-<!-- Cole aqui o seu GIF demonstrando o uso da interface -->
-*(Espaço reservado para o GIF de demonstração)*
 
-**Live demo:** [Insira seu link do Streamlit Cloud aqui]
+
+**Live demo:** [[Insira seu link do Streamlit Cloud aqui](https://app-python-reviewer-ypjinhgsqb59udgbu8vhmu.streamlit.app/)]
 
 ## 🎯 Problem Statement
 
